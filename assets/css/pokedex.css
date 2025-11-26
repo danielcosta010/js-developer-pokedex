@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    cursor: pointer;
 }
 
 .normal {
@@ -163,3 +164,4 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+

@@ -33,7 +33,7 @@ function openPokemonModal(pokemonNumber) {
                 <span class="stat-label">Altura</span>
               </div>
               <div class="stat-item">
-                <span class="stat-value">${(weight / 10).toFixed(2)}kg</span>
+                <span class="stat-value">${(weight / 10).toFixed(1)}kg</span>
                 <span class="stat-label">Peso</span>
               </div>
             </div>
